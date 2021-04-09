@@ -6,9 +6,9 @@
   - fourth
     1. fifth
 
----html
+'''html
 <B>welcome</B>
----
----javascript
+'''
+'''javascript
 let num=Math.random();
----javascript
+'''javascript
