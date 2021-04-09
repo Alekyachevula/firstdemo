@@ -4,4 +4,4 @@
 - second
 - third
   - fourth
-    1.fifth
+    1. fifth
