@@ -9,7 +9,6 @@
 ---html
 <B>welcome</B>
 ---
-
----javaScript
-let num=math.random();
----javaScript
+---javascript
+let num=Math.random();
+---javascript
